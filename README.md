@@ -49,3 +49,4 @@ This project demonstrates fundamental string processing logic in microprocessor 
 ---
 
 📚 *A simple yet practical project to strengthen understanding of assembly-level string manipulation.*
+`BRACU` `CSE341` `341` `PROJECT`
